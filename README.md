@@ -13,8 +13,6 @@ Scatterplot of 1000 numbers:
 ![1000 numbers](1000.png)
 Scatterplot of 10000 numbers:
 ![10000 numbers](10000.png)
-Scatterplot of 100,000 numbers:
-![100,000 numbers](100000.png)
 
 ## Plotting the Average as $n \to \infty$
 Scatterplot of the first 10 averages:

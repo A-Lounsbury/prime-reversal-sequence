@@ -22,6 +22,7 @@ def decimalToBinary(n):
             n = int(n / 2)
     return digits
 
+# converts a list of binary digits to a decimal number
 def binaryToDecimal(digits):
     result = 0
     digits.reverse()
