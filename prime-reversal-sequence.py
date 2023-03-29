@@ -1,3 +1,8 @@
+# prime-reversal-sequence.py
+# Andrew Lounsbury
+# 24/3/23
+# Purpose: Generate a particular prime reversal sequence; https://www.youtube.com/watch?v=pAMgUB51XZA
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
